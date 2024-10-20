@@ -1,0 +1,38 @@
+C:\Users\it\OneDrive\Documents\Lập trình Win\BTL_QLCuaHangSach\BTL_QLCuaHangSach\bin\Debug\BTL_QLCuaHangSach.exe.config
+C:\Users\it\OneDrive\Documents\Lập trình Win\BTL_QLCuaHangSach\BTL_QLCuaHangSach\bin\Debug\BTL_QLCuaHangSach.exe
+C:\Users\it\OneDrive\Documents\Lập trình Win\BTL_QLCuaHangSach\BTL_QLCuaHangSach\bin\Debug\BTL_QLCuaHangSach.pdb
+C:\Users\it\OneDrive\Documents\Lập trình Win\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.csproj.AssemblyReference.cache
+C:\Users\it\OneDrive\Documents\Lập trình Win\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\it\OneDrive\Documents\Lập trình Win\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.Form1.resources
+C:\Users\it\OneDrive\Documents\Lập trình Win\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.Properties.Resources.resources
+C:\Users\it\OneDrive\Documents\Lập trình Win\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.csproj.GenerateResource.cache
+C:\Users\it\OneDrive\Documents\Lập trình Win\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.csproj.CoreCompileInputs.cache
+C:\Users\it\OneDrive\Documents\Lập trình Win\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.exe
+C:\Users\it\OneDrive\Documents\Lập trình Win\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.pdb
+C:\Users\it\OneDrive\Documents\Lập trình Win\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.FormChiTietHoaDon.resources
+C:\Users\it\OneDrive\Documents\Lập trình Win\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.FormChiTietPhieuNhap.resources
+C:\Users\it\OneDrive\Documents\Lập trình Win\Quản_lý_cửa_hàng_sách_TruongThiHaThuong_2051060731\BTL_QLCuaHangSach\BTL_QLCuaHangSach\bin\Debug\BTL_QLCuaHangSach.exe.config
+C:\Users\it\OneDrive\Documents\Lập trình Win\Quản_lý_cửa_hàng_sách_TruongThiHaThuong_2051060731\BTL_QLCuaHangSach\BTL_QLCuaHangSach\bin\Debug\BTL_QLCuaHangSach.exe
+C:\Users\it\OneDrive\Documents\Lập trình Win\Quản_lý_cửa_hàng_sách_TruongThiHaThuong_2051060731\BTL_QLCuaHangSach\BTL_QLCuaHangSach\bin\Debug\BTL_QLCuaHangSach.pdb
+C:\Users\it\OneDrive\Documents\Lập trình Win\Quản_lý_cửa_hàng_sách_TruongThiHaThuong_2051060731\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.csproj.AssemblyReference.cache
+C:\Users\it\OneDrive\Documents\Lập trình Win\Quản_lý_cửa_hàng_sách_TruongThiHaThuong_2051060731\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.csproj.SuggestedBindingRedirects.cache
+C:\Users\it\OneDrive\Documents\Lập trình Win\Quản_lý_cửa_hàng_sách_TruongThiHaThuong_2051060731\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.Form1.resources
+C:\Users\it\OneDrive\Documents\Lập trình Win\Quản_lý_cửa_hàng_sách_TruongThiHaThuong_2051060731\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.FormChiTietHoaDon.resources
+C:\Users\it\OneDrive\Documents\Lập trình Win\Quản_lý_cửa_hàng_sách_TruongThiHaThuong_2051060731\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.FormChiTietPhieuNhap.resources
+C:\Users\it\OneDrive\Documents\Lập trình Win\Quản_lý_cửa_hàng_sách_TruongThiHaThuong_2051060731\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.Properties.Resources.resources
+C:\Users\it\OneDrive\Documents\Lập trình Win\Quản_lý_cửa_hàng_sách_TruongThiHaThuong_2051060731\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.csproj.GenerateResource.cache
+C:\Users\it\OneDrive\Documents\Lập trình Win\Quản_lý_cửa_hàng_sách_TruongThiHaThuong_2051060731\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.csproj.CoreCompileInputs.cache
+C:\Users\it\OneDrive\Documents\Lập trình Win\Quản_lý_cửa_hàng_sách_TruongThiHaThuong_2051060731\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.exe
+C:\Users\it\OneDrive\Documents\Lập trình Win\Quản_lý_cửa_hàng_sách_TruongThiHaThuong_2051060731\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.pdb
+C:\Users\HP\Downloads\BTL_HQTCSDL\BTL_HQTCSDL\BTL_QLCuaHangSach\BTL_QLCuaHangSach\bin\Debug\BTL_QLCuaHangSach.exe.config
+C:\Users\HP\Downloads\BTL_HQTCSDL\BTL_HQTCSDL\BTL_QLCuaHangSach\BTL_QLCuaHangSach\bin\Debug\BTL_QLCuaHangSach.exe
+C:\Users\HP\Downloads\BTL_HQTCSDL\BTL_HQTCSDL\BTL_QLCuaHangSach\BTL_QLCuaHangSach\bin\Debug\BTL_QLCuaHangSach.pdb
+C:\Users\HP\Downloads\BTL_HQTCSDL\BTL_HQTCSDL\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\BTL_HQTCSDL\BTL_HQTCSDL\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.Form1.resources
+C:\Users\HP\Downloads\BTL_HQTCSDL\BTL_HQTCSDL\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.FormChiTietHoaDon.resources
+C:\Users\HP\Downloads\BTL_HQTCSDL\BTL_HQTCSDL\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.FormChiTietPhieuNhap.resources
+C:\Users\HP\Downloads\BTL_HQTCSDL\BTL_HQTCSDL\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.Properties.Resources.resources
+C:\Users\HP\Downloads\BTL_HQTCSDL\BTL_HQTCSDL\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\BTL_HQTCSDL\BTL_HQTCSDL\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\BTL_HQTCSDL\BTL_HQTCSDL\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.exe
+C:\Users\HP\Downloads\BTL_HQTCSDL\BTL_HQTCSDL\BTL_QLCuaHangSach\BTL_QLCuaHangSach\obj\Debug\BTL_QLCuaHangSach.pdb
